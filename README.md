@@ -1,3 +1,12 @@
+#Основной экран
+Все элемент
+Функционал всех элементов
+1) Открытие событий через даты точки
+2) Перелистывание годов
+3) Карусель событий
+4) Перелистывание страниц
+5) Адаптивка под мобильники
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).

@@ -300,7 +300,7 @@
     left: 20px;
     top: 163px;
     display: flex;
-    gap: 10px; /* уменьшаем расстояние между .blue и .pink */
+    gap: 10px;
   }
 
   .blue, .pink {
@@ -357,6 +357,10 @@
     position: absolute;
     top: 505px;
     left: 20px;
+  }
+
+  .title_s{
+    display: none;
   }
 
   .button_left, .button_right{
